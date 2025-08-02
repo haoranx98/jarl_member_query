@@ -22,13 +22,13 @@ This project allows you to query JARL (Japan Amateur Radio League) membership in
 To install the required dependencies, you can use the following command:
 
 ```bash
-pip install -r requirements.txt
+conda env create -f environment.yml
 ```
 
 要安装所需的依赖，可以使用以下命令：
 
 ```bash
-pip install -r requirements.txt
+conda env create -f environment.yml
 ```
 
 ### WebDriver 安装
